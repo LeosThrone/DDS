@@ -1,0 +1,5 @@
+the repo is about understanding design of data structures.
+it contains 6 diffrent modules which is further divided into lessions as per requirement.
+all the files are created in google colab
+every lesson has lesson overview and then neccesory programing insturctions
+some structures are explained along with real-world examples to show their importance
